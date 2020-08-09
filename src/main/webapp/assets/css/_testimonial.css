@@ -1,0 +1,16 @@
+.client-say-img {
+  float: left;
+  margin-right: 15px; }
+
+.client-say-content {
+  padding-top: 9px;
+  overflow: hidden; }
+  .client-say-content h4 {
+    font-size: 20px;
+    margin-bottom: 0;
+    color: #333333; }
+    .client-say-content h4 span {
+      font-size: 13px;
+      font-weight: 400; }
+
+/*# sourceMappingURL=_testimonial.css.map */

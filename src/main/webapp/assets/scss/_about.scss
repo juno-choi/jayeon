@@ -1,0 +1,59 @@
+/* 13. about */
+.about-wrapper {
+	margin-left: 70px;
+	margin-right: 70px;
+	margin-top: 72px;
+}
+.about-text{
+    & h1{
+        font-size: 48px;
+        font-weight: 300;
+        line-height: 1.1;
+        position: relative;
+        padding-bottom: 50px;
+        margin-bottom: 50px;
+        text-transform: capitalize;
+        &::before{
+            position: absolute;
+            content: "";
+            background: $black;
+            height: 3px;
+            width:100px;
+            left: 0;
+            bottom: 0;
+        }
+    }
+    & p{
+        line-height: 30px;
+        padding-right: 39px;
+        margin-bottom: 18px;
+        &:last-child{margin-bottom: 0;}
+    }
+}
+.about-bg-area {
+	background-size: cover;
+	background-position: center center;
+}
+.about-content {
+	& h1{
+        font-size: 48px;
+        font-weight: 400;
+        position: relative;
+        padding-bottom: 35px;
+        margin-bottom: 31px;
+        &::before{
+            position: absolute;
+            content: "";
+            background: $black;
+            height: 3px;
+            width:100px;
+            left: 0;
+            bottom: 0;
+        }
+    }
+    & p{
+        margin-bottom: 0;
+        line-height: 30px;
+        padding-right: 26px;
+    }
+}

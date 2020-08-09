@@ -1,0 +1,129 @@
+/* 7. newsletter */
+.newsletter-border{
+	border-bottom: 1px solid #cccccc;
+}
+.newsletter-text{
+    & h4{
+        font-size: 20px;
+		font-weight: 500;
+		text-transform: capitalize;
+    }
+    & p{
+        margin-bottom: 0;
+        font-size: 16px;
+    }
+}
+.single-newsletters {
+	margin-left: 30px;
+}
+.newsletter-form  form {
+    position: relative;
+  }
+  .newsletter-form form input {
+	height: 46px;
+	background: #f4f7fc;
+	color: #666666;
+	font-size: 13px;
+	border: 1px solid #cccccc;
+	width: 370px;
+	font-weight: 400;
+	padding: 0 20px;
+	float: left;
+}
+  .newsletter-form form input::placeholder {
+      color: #666666;
+      font-size: 13px;
+      font-weight: 400;
+  }
+  .newsletter-form form::-moz-placeholder {
+      color: #666666;
+      font-size: 13px;
+      font-weight: 400;
+  }
+  .newsletter-form button.btn {
+	margin-left: 11px;
+}
+
+// style-2
+.newsletters-form {
+	overflow: hidden;
+}
+.newsletters-form  form {
+    position: relative;
+  }
+  .newsletters-form form input {
+	height: 35px;
+	background: none;
+	color: #666666;
+	font-size: 14px;
+	width: 100%;
+	font-weight: 400;
+	padding: 0;
+	float: left;
+	border-bottom: 1px solid #cccccc;
+	border-left: 0;
+	border-right: 0;
+	border-top: 0;
+	position: relative;
+}
+  .newsletters-form form input::placeholder {
+      color: #666666;
+      font-size: 14px;
+      font-weight: 400;
+  }
+  .newsletters-form form::-moz-placeholder {
+      color: #666666;
+      font-size: 14px;
+      font-weight: 400;
+  }
+  .newsletters-form button {
+	position: absolute;
+	right: 0;
+	top: 0;
+	background: none;
+	border: none;
+	color: $theme-color;
+	font-size: 16px;
+	font-weight: 500;
+    & i{
+        font-size: 20px;
+        padding-left: 5px;
+        position: relative;
+        top: 0;
+    }
+}
+.newsletter-content h2 {
+	font-size: 30px;
+	font-weight: 500;
+	text-transform: capitalize;
+}
+.newsletter-content p {
+	margin-bottom: 0;
+	padding: 0 50px;
+	line-height: 26px;
+}
+.newsletter-2-wrapper .newsletters-form form input {
+	height: 60px;
+	color: $body-text-color;
+	font-size: 14px;
+	padding: 0 40px;
+	border: 1px solid #ccc;
+	border-radius: 30px;
+}
+.newsletter-2-wrapper .newsletters-form button {
+	position: absolute;
+	right: 30px;
+	top: 19px;
+	background: none;
+	border: none;
+	color: $theme-color;
+	font-size: 14px;
+	font-weight: 500;
+	text-transform: uppercase;
+}
+.newsletter-2-wrapper .newsletters-form button i {
+	font-size: 16px;
+	padding-left: 5px;
+	position: relative;
+	top: 1px;
+}

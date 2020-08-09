@@ -1,0 +1,49 @@
+/* 12. breadcrumb */
+  .breadcrumb-text {
+      position: relative;
+      z-index: 1;
+  }
+  .breadcrumb-text > h1 {
+	font-size: 44px;
+	margin-bottom: 14px;
+	text-transform: capitalize;
+	line-height: 1;
+	font-weight: 500;
+}
+  .breadcrumb-menu li {
+      display: inline-block;
+      position: relative;
+      padding: 0 20px;
+  }
+  .breadcrumb-menu li a {
+	color: #aeacac;
+	font-size: 18px;
+	font-weight: 400;
+	text-transform: capitalize;
+	transition: all 0.3s ease 0s;
+	-webkit-transition: all 0.3s ease 0s;
+	-moz-transition: all 0.3s ease 0s;
+	-ms-transition: all 0.3s ease 0s;
+	-o-transition: all 0.3s ease 0s;
+}
+  .breadcrumb-menu li::before {
+	content: "\e01a";
+	display: inline-block;
+	padding-bottom: 0;
+	position: absolute;
+	top: 1px;
+	font-weight: 400;
+	color: #666666;
+	left: -10px;
+	font-family: "dripicons-v2";
+	font-size: 18px;
+}
+  .breadcrumb-menu li:first-child::before {
+      display: none;
+  }
+  .breadcrumb-menu span {
+	font-size: 18px;
+	font-weight: 400;
+    text-transform: capitalize;
+    color:$black;
+}

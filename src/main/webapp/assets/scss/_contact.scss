@@ -1,0 +1,68 @@
+/* 16. contact */
+.contact-map {
+	height: 600px;
+}
+/* 23. contact-area */
+.contact-address-text h3 {
+	color: $theme-color;
+	font-weight: 500;
+	font-size: 24px;
+	text-transform: capitalize;
+	margin-bottom: 12px;
+}
+.contact-address-text p {
+	line-height: 26px;
+	margin-bottom: 0;
+}
+.contact-list-address li {
+	padding-bottom: 40px;
+}
+.contact-list-address li:last-child{padding-bottom: 0;}
+#contact-form input {
+	height: 65px;
+	width: 100%;
+	border: 1px solid #e8e8ff;
+	margin-bottom: 30px;
+	padding: 0 25px;
+	transition: .3s;
+	background: none;
+	text-transform: capitalize;
+	font-size: 14px;
+}
+#contact-form input::-moz-placeholder {
+  color: #6a6a6a;
+  font-size: 14px;
+}
+#contact-form input::placeholder {
+  color: #6a6a6a;
+  font-size: 14px;
+}
+#contact-form textarea {
+	width: 100%;
+	border: 1px solid #e8e8ff;
+	padding: 25px;
+	height: 180px;
+	margin-bottom: 30px;
+	transition: .3s;
+	background: none;
+	text-transform: capitalize;
+	font-size: 14px;
+}
+#contact-form textarea::-moz-placeholder {
+  color: #6a6a6a;
+  font-size: 14px;
+}
+#contact-form textarea::placeholder {
+  color: #6a6a6a;
+  font-size: 14px;
+}
+#contact-form .btn {
+	cursor: pointer;
+	border-radius: 0;
+	transition: .3s;
+	padding: 22px 97px;
+	background: $theme-color;
+}
+#contact-form .btn:hover {
+	background:#252525;
+}

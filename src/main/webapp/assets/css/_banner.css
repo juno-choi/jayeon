@@ -1,0 +1,19 @@
+.banner-img {
+  position: relative; }
+  .banner-img img {
+    width: 100%; }
+
+.banner-text {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+  right: 0;
+  text-align: center;
+  left: 0;
+  -webkit-transition: .3s;
+  -o-transition: .3s;
+  transition: .3s; }
+
+/*# sourceMappingURL=_banner.css.map */
