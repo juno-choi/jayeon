@@ -33,7 +33,8 @@
 
              <!-- map-area-start -->
                 <div class="map-area ">
-                    <div id="contact-map" class="contact-map"></div>
+                    <!-- <div id="contact-map" class="contact-map" style="background-image:url(/img/map.png)"></div> -->
+                    <div id="contact-map" class="about-bg-area pt-350  pb-350" style="background-image:url(/img/map.png)"></div>
                 </div>
                 <!-- map-area-end -->
 

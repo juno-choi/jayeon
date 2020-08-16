@@ -17,7 +17,7 @@
                                 </div>
                             </div>
                         </div> -->
-                        <div class="col-xl-0 col-lg-0 col-md-3"></div>
+                        <!-- <div class="col-xl-0 col-lg-0 col-md-3"></div> -->
                         
                         <div class="col-xl-4 col-lg-4 col-md-6">
                             <div class="footer-wrapper mb-30">

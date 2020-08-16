@@ -104,14 +104,14 @@
                                     </li>
                                     <li><a href="/about">About</a></li>
                                     <li><a href="/shop">Shop</a>
-                                        <ul class="sub-menu text-left">
+                                        <!-- <ul class="sub-menu text-left">
                                             <li><a href="shop.html">꽈리고추</a>
                                             <li><a href="shop-2-columns.html">브로콜리</a></li>
                                             <li><a href="shop-3-columns.html">사과(아리수)</a></li>
                                             <li><a href="shop-right-sidebar.html">사과(시나노 골드)</a></li>
                                             <li><a href="shop-no-sidebar.html">shop no sidebar</a></li>
                                             <li><a href="product-details.html">product details</a></li>
-                                        </ul>
+                                        </ul> -->
                                     </li>
                                     <!-- <li><a href="#">pages</a>
                                         <ul class="sub-menu text-left">

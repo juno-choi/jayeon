@@ -37,15 +37,15 @@
                     <div class="row">
                         <div class="col-xl-6 col-lg-6 mb-30">
                             <div class="about-img ml-40">
-                                <img src="assets/img/about/about.jpg" alt="">
+                                <img src="/img/apple.jpg" alt="">
                             </div>
                         </div>
                         <div class="col-xl-6 col-lg-6 mb-30">
                             <div class="about-wrapper">
                                 <div class="about-text">
-                                    <h1>Hi We Are Vistar. The best store for your smart life </h1>
-                                    <p>But I must explain to you how all this mistaken nouncing pleasure and praising pain was born and give you  complete account of the system, and expound the actual teachings of the great explorer of the truter-builder of human hapness. No one rejects, dislikes or avoids pleasure itself because  it is pleasure but because those.</p>
-                                    <p>Praising pain was born and give you  complete account of  the system, and expound the actual teachings of the great explorer of the truter-builder of human hapness. No one rejects, dislikes or avoids pleasure.</p>
+                                    <h1>자연햇살농원을<br/>소개합니다!</h1>
+                                    <p>친구는 세월의 도둑이다. 봄부터 흐르는 물은 겨울이 되어도 얼지 않듯이 마음에서 우러나오는 우적은 역경이 닥친다고 해서 식지 않는다. 불행했을 때 만난 친구는 가장 소중히 여겨야 한다. 행복했을 때 함께 기쁨을 누리는 친구보다 힘들 떄 슬픔을 덜어지는 친구를 더 많이 신뢰할 수 있다. 부유했을 때는 친구를 사귀기 쉽지만, 어려울 때는 눈을 씻고 찾아봐도 친구를 찾기 어렵다. 누군가 진정한 우정을 나누고 있다 할지라도 그 우정을 지키려면 오랜 시간이 걸린다. 짧은 시간 안에 많은 친구를 얻기란 불가능하다. 왜냐하면 그들은 진정한 친구가 아니기 때문이다.</p>
+                                    <p>친구란 말하자면 또 하나의 자신이다. 친구를 보면 그 사람을 알 수 있다. 현명한 사람과 어리석은 사람은 서로 어울리지 않는다. 친구는 나를 동정하는 자가 아니라 나를 돕는 자다. 서로가 고통을 덜어 주지 않는다면 우리는 무엇을 위해 사는 것일까? 우리는 모두 적막한 세계를 떠도는 나그네다. 그 여정에서 찾을 수 있는 최고의 선물은 바로 믿음직한 벗이다. </p>                                
                                 </div>
                             </div>
                         </div>
@@ -55,7 +55,7 @@
             <!-- about-area-about -->
 
             <!-- about-bg-start -->
-            <div class="about-bg-area pt-350  pb-350 " style="background-image:url(assets/img/about/01.jpg)">
+            <div class="about-bg-area pt-350  pb-350 " style="background-image:url(/img/background.jpg)">
 
             </div>
             <!-- about-bg-end -->

@@ -15,18 +15,20 @@
             <!-- slider-start -->
             <div class="slider-area">
                 <div class="slider-active">
+<!--                     <div class="single-slider slider-height d-flex align-items-center"
+                        style="background-image:url(/assets/img/slider/slider-1.jpg)"> -->
                     <div class="single-slider slider-height d-flex align-items-center"
-                        style="background-image:url(/assets/img/slider/slider-1.jpg)">
+                        style="background-image:url(/img/father.jpg)">
                         <div class="container">
                             <div class="row ">
                                 <div class="col-xl-4 col-lg-8">
                                     <div class="slider-content">
-                                        <span data-animation="fadeInLeft" data-delay=".3s">new arrival</span>
-                                        <h1 data-animation="fadeInLeft" data-delay=".5s">Shoes For Men</h1>
-                                        <p data-animation="fadeInLeft" data-delay=".7s">But I must explain to you how all this
+                                        <span data-animation="fadeInLeft" data-delay=".3s" style="color: white;">new arrival</span>
+                                        <h1 data-animation="fadeInLeft" data-delay=".5s" style="color: white;">자연햇살농원</h1>
+                                        <p data-animation="fadeInLeft" data-delay=".7s" style="color: white;">But I must explain to you how all this
                                          mistaken idea of denouncing.</p>
                                         <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
-                                            <a class="text-link" href="#">shop now</a>
+                                            <a class="text-link" href="#" style="color: white;">shop now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -34,17 +36,17 @@
                         </div>
                     </div>
                     <div class="single-slider slider-height d-flex align-items-center"
-                        style="background-image:url(/assets/img/slider/slider-1.jpg)">
+                        style="background-image:url(/img/apple.jpg)">
                         <div class="container">
                             <div class="row ">
                                 <div class="col-xl-4 col-lg-8">
                                     <div class="slider-content">
-                                        <span data-animation="fadeInLeft" data-delay=".3s">new arrival</span>
-                                        <h1 data-animation="fadeInLeft" data-delay=".5s">Shoes For Men</h1>
-                                        <p data-animation="fadeInLeft" data-delay=".7s">But I must explain to you how all this
+                                        <span data-animation="fadeInLeft" data-delay=".3s" style="color: white;">new arrival</span>
+                                        <h1 data-animation="fadeInLeft" data-delay=".5s" style="color: white;">자연햇살농원</h1>
+                                        <p data-animation="fadeInLeft" data-delay=".7s" style="color: white;">But I must explain to you how all this
                                          mistaken idea of denouncing.</p>
                                         <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
-                                            <a class="text-link" href="#">shop now</a>
+                                            <a class="text-link" href="#" style="color: white;">shop now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -52,17 +54,17 @@
                         </div>
                     </div>
                     <div class="single-slider slider-height d-flex align-items-center"
-                        style="background-image:url(/assets/img/slider/slider-1.jpg)">
+                        style="background-image:url(/img/background.jpg)">
                         <div class="container">
                             <div class="row ">
                                 <div class="col-xl-4 col-lg-8">
                                     <div class="slider-content">
-                                        <span data-animation="fadeInLeft" data-delay=".3s">new arrival</span>
-                                        <h1 data-animation="fadeInLeft" data-delay=".5s">Shoes For Men</h1>
-                                        <p data-animation="fadeInLeft" data-delay=".7s">But I must explain to you how all this
+                                        <span data-animation="fadeInLeft" data-delay=".3s" style="color: white;">new arrival</span>
+                                        <h1 data-animation="fadeInLeft" data-delay=".5s" style="color: white;">자연햇살농원</h1>
+                                        <p data-animation="fadeInLeft" data-delay=".7s" style="color: white;">But I must explain to you how all this
                                          mistaken idea of denouncing.</p>
                                         <div class="slider-button" data-animation="fadeInUp" data-delay=".9s">
-                                            <a class="text-link" href="#">shop now</a>
+                                            <a class="text-link" href="#" style="color: white;">shop now</a>
                                         </div>
                                     </div>
                                 </div>
@@ -80,10 +82,10 @@
                         <div class="col-xl-4 col-lg-4 col-md-6">
                             <div class="banner-wrapper mb-30">
                                 <div class="banner-img">
-                                    <a href="#"><img src="/assets/img/banner/01.jpg" alt="">
+                                    <a href="#"><img src="/img/father.jpg" alt="">
                                     <div class="banner-text">
                                         <div class="banner-inner">
-                                            <h2>Wood Chair</h2>
+                                            <h2>구매하기</h2>
                                         </div>
                                     </div>
                                     </a>
@@ -93,10 +95,10 @@
                         <div class="col-xl-4 col-lg-4 col-md-6">
                             <div class="banner-wrapper mb-30">
                                 <div class="banner-img">
-                                    <a href="#"><img src="/assets/img/banner/02.jpg" alt="">
+                                    <a href="#"><img src="/img/apple.jpg" alt="">
                                     <div class="banner-text">
                                         <div class="banner-inner">
-                                            <h2>Wood Chair</h2>
+                                            <h2>구매하기</h2>
                                         </div>
                                     </div>
                                     </a>
@@ -106,10 +108,10 @@
                         <div class="col-xl-4 col-lg-4 col-md-6">
                             <div class="banner-wrapper mb-30">
                                 <div class="banner-img">
-                                    <a href="#"><img src="/assets/img/banner/03.jpg" alt="">
+                                    <a href="#"><img src="/img/background.jpg" alt="">
                                     <div class="banner-text">
                                         <div class="banner-inner">
-                                            <h2>Wood Chair</h2>
+                                            <h2>구매하기</h2>
                                         </div>
                                     </div>
                                     </a>
