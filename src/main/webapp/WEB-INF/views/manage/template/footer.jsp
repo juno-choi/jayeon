@@ -3,28 +3,33 @@
 <%@ taglib prefix="fn" uri="http://java.sun.com/jsp/jstl/functions" %>
 <%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
 
-<!DOCTYPE html>
-<html>
-	<footer class="py-4 bg-light mt-auto">
-	    <div class="container-fluid">
-	        <div class="d-flex align-items-center justify-content-between small">
-	            <div class="text-muted">Copyright &copy; Your Website 2020</div>
-	            <div>
-	                <a href="#">Privacy Policy</a>
-	                &middot;
-	                <a href="#">Terms &amp; Conditions</a>
-	            </div>
-	        </div>
-	    </div>
-	</footer>
+<html class="loading" lang="en" data-textdirection="ltr">
+    <!-- BEGIN: Footer-->
+    <footer class="footer footer-static footer-light navbar-border navbar-shadow">
+        <p class="clearfix blue-grey lighten-2 text-sm-center mb-0 px-2"><span class="float-md-left d-block d-md-inline-block">Copyright &copy; 2019 <a class="text-bold-800 grey darken-2" href="https://1.envato.market/modern_admin" target="_blank">PIXINVENT</a></span><span class="float-md-right d-none d-lg-block">Hand-crafted & Made with<i class="ft-heart pink"></i><span id="scroll-top"></span></span></p>
+    </footer>
+    <!-- END: Footer-->
 
-	<script src="https://code.jquery.com/jquery-3.5.1.min.js" crossorigin="anonymous"></script>
-	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
-	<script src="/manageAssets/js/scripts.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.min.js" crossorigin="anonymous"></script>
-	<script src="/manageAssets/demo/chart-area-demo.js"></script>
-	<script src="/manageAssets/demo/chart-bar-demo.js"></script>
-	<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js" crossorigin="anonymous"></script>
-	<script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js" crossorigin="anonymous"></script>
-	<script src="/manageAssets/demo/datatables-demo.js"></script>        
+
+    <!-- BEGIN: Vendor JS-->
+    <script src="/manageAssets/vendors/js/vendors.min.js"></script>
+    <!-- BEGIN Vendor JS-->
+
+    <!-- BEGIN: Page Vendor JS-->
+    <script src="/manageAssets/vendors/js/charts/chart.min.js"></script>
+    <script src="/manageAssets/vendors/js/charts/raphael-min.js"></script>
+    <script src="/manageAssets/vendors/js/charts/morris.min.js"></script>
+    <script src="/manageAssets/vendors/js/charts/jvector/jquery-jvectormap-2.0.3.min.js"></script>
+    <script src="/manageAssets/vendors/js/charts/jvector/jquery-jvectormap-world-mill.js"></script>
+    <script src="/manageAssets/data/jvector/visitor-data.js"></script>
+    <!-- END: Page Vendor JS-->
+
+    <!-- BEGIN: Theme JS-->
+    <script src="/manageAssets/js/core/app-menu.js"></script>
+    <script src="/manageAssets/js/core/app.js"></script>
+    <!-- END: Theme JS-->
+
+    <!-- BEGIN: Page JS-->
+    <script src="/manageAssets/js/scripts/pages/dashboard-sales.js"></script>
+    <!-- END: Page JS-->
 </html>
