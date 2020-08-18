@@ -37,19 +37,19 @@ public class MainController {
 	 */
 	@RequestMapping(value = "/about")
 	public String about(ModelAndView mv) {
-		
+		logger.debug("about");
 		return "front/about";
 	}
 	
 	@RequestMapping(value = "/shop")
 	public String shop(ModelAndView mv) {
-		
+		logger.debug("shop");
 		return "front/shop";
 	}
 	
 	@RequestMapping(value = "/contact")
 	public String contact(ModelAndView mv) {
-		
+		logger.debug("contact");
 		return "front/contact";
 	}
 	
