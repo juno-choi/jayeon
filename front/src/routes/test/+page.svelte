@@ -4,7 +4,7 @@
     function get_test() {
         fetch("http://127.0.0.1:8000/v1/test").then((res) => {
             res.json().then((json) => {
-                test = json;
+                test = json.message;
             });
         });
     }
